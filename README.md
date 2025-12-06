@@ -10,7 +10,7 @@
 
 ---
 
-# Hi 👋 My name is **Aureo**  
+# Hi**  
 ### *Low-level programmer, 3D animator, web development and data entry management*
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqNXE0Z3h6azlkOGFpbmNtcW56bzd4cHplbWF0c3Jod3RhbHlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PFkgOFloYgGqc/giphy.gif)
