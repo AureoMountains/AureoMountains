@@ -1,85 +1,55 @@
-Aspiring Data Scientist | Python | R | SQL | Machine Learning
+Ciência de Dados | Python · SQL · R | Análise de Dados e Machine Learning
 
-I'm an undergraduate student focused on Data Science, Machine Learning, and Data Engineering.
+Tenho interesse em transformar dados em informações úteis para a tomada de decisões. Estou desenvolvendo conhecimentos em programação, estatística, análise exploratória de dados e aprendizado de máquina, com foco na construção de projetos práticos e na aplicação dessas habilidades a problemas reais.
 
-I enjoy working with data, building analytical projects, and understanding how software and data systems work under the hood. My background also includes backend development and low-level programming, which gives me a broader perspective on building complete technical solutions.
+Meu objetivo é iniciar minha trajetória profissional na área de tecnologia, especialmente em Ciência de Dados, Análise de Dados ou áreas relacionadas.
 
-🧠 What I'm Currently Focused On
-Data Analysis and Exploratory Data Analysis
-Statistical Analysis
-Machine Learning
-Python for Data Science
-R and ggplot2
-SQL and Relational Databases
-Data Engineering fundamentals
-🛠️ Technologies
+Competências técnicas
 
-Languages
+Python: análise e manipulação de dados com pandas e NumPy, visualização com Matplotlib e integração com APIs.
 
-Python R SQL Java TypeScript Lua Rust Haskell C Assembly
+SQL: consultas, filtragem, agregações e fundamentos de bancos de dados relacionais.
 
-Data Science
+R: manipulação de dados com tidyverse, visualização com ggplot2 e análise estatística.
 
-Pandas NumPy ggplot2 Matplotlib tidyverse scikit-learn
+Machine Learning: estudo de modelos preditivos, preparação de dados e avaliação de modelos.
 
-Machine Learning
+Programação: fundamentos de algoritmos, estruturas de dados e desenvolvimento de software.
 
-Random Forest XGBoost caret glmnet
+Sistemas: conhecimentos em C, Assembly x86, arquitetura de computadores e fundamentos de sistemas operacionais.
 
-Databases
+Projetos e estudos práticos
 
-Microsoft SQL Server PostgreSQL MySQL
+Projeto de clima — Python
 
-Backend
+Exploração de dados meteorológicos obtidos por API, com foco na coleta, organização e análise de informações.
 
-Flask Django Node.js Express SQLAlchemy REST APIs
+Machine Learning com R
 
-Tools
+Repositório dedicado ao estudo de fluxos de trabalho de aprendizado de máquina utilizando R.
 
-Git GitHub Linux WSL VS Code
+Banco de dados SQL
 
-📊 Featured Projects
-R Customer Project
+Prática de consultas SQL e conceitos de bancos de dados relacionais.
 
-An exploratory Data Science project using R and Python, focused on customer data, visualization, statistical exploration, and introductory Machine Learning.
+Programação de baixo nível
 
-Machine Learning with R
+Experimentos com Assembly x86 para aprofundar o entendimento de registradores, memória e funcionamento do processador.
 
-A Machine Learning project developed in R, exploring predictive modeling and applied ML techniques.
+Os projetos estão em desenvolvimento e serão aprimorados com documentação, código reproduzível e resultados demonstráveis.
 
-SQL Database
+Ferramentas
 
-A relational database project focused on SQL, data organization, and database operations.
+Python · R · SQL · pandas · NumPy · Matplotlib · tidyverse · ggplot2 · Git · GitHub · Linux · WSL
 
-InsightR
+Objetivo profissional
 
-A collection of statistical visualizations and exploratory analyses created with R and data visualization tools.
+Busco oportunidades de estágio em Ciência de Dados, Análise de Dados ou áreas relacionadas, nas quais possa aplicar meus conhecimentos, desenvolver experiência prática e contribuir com análises fundamentadas em dados.
 
-💻 Other Technical Projects
+Tenho interesse em continuar aprofundando meus conhecimentos em estatística, bancos de dados, visualização de dados e aprendizado de máquina, além de desenvolver boas práticas de programação e documentação.
 
-I also work on software engineering and systems-oriented projects, including:
-
-REST APIs
-Backend applications
-Database-driven systems
-x86 Assembly
-Kernel and operating-system experiments
-Embedded programming with ESP32
-Game development with Lua
-🌱 Currently Learning
-
-Data Science → Machine Learning → Data Engineering
-
-I'm continuously improving my knowledge in statistics, programming, machine learning, databases, and data-driven problem solving.
-
-🎯 Career Goal
-
-My long-term goal is to become a Data Scientist, working on real-world problems where programming, statistics, machine learning, and data analysis come together.
-
-I'm particularly interested in international and remote opportunities in Data Science, Machine Learning, Data Analytics, and Data Engineering.
-
-📫 Connect With Me
+Contato
 
 GitHub: AureoMountains
 
-LinkedIn: [Add your LinkedIn here]
+LinkedIn: adicione o link do seu perfil
