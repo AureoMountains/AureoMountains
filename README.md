@@ -48,8 +48,6 @@ Busco oportunidades de estágio em Ciência de Dados, Análise de Dados ou área
 
 Tenho interesse em continuar aprofundando meus conhecimentos em estatística, bancos de dados, visualização de dados e aprendizado de máquina, além de desenvolver boas práticas de programação e documentação.
 
-Contato
-
 GitHub: AureoMountains
 
-LinkedIn: adicione o link do seu perfil
+
